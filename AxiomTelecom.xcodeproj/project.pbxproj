@@ -37,6 +37,7 @@
 		2C4C96632502C82C0000C645 /* ServiceWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C4C96622502C82C0000C645 /* ServiceWrapper.swift */; };
 		2C4C96682502C8C50000C645 /* DictionaryExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C4C96672502C8C50000C645 /* DictionaryExtensions.swift */; };
 		2C4C966E2502CE310000C645 /* ServiceManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C4C966D2502CE310000C645 /* ServiceManager.swift */; };
+		4EA27D82267A7654002EF448 /* CustomSearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA27D81267A7654002EF448 /* CustomSearchBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -86,6 +87,7 @@
 		2C4C966A2502C9FA0000C645 /* Development.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Development.xcconfig; sourceTree = "<group>"; };
 		2C4C966B2502CA0B0000C645 /* Production.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Production.xcconfig; sourceTree = "<group>"; };
 		2C4C966D2502CE310000C645 /* ServiceManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServiceManager.swift; sourceTree = "<group>"; };
+		4EA27D81267A7654002EF448 /* CustomSearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomSearchBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,6 +137,7 @@
 			isa = PBXGroup;
 			children = (
 				2C383C892504431400D9A3EA /* CatalogScene */,
+				4EA27D81267A7654002EF448 /* CustomSearchBar.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -408,6 +411,7 @@
 				2C4C965B2502C3230000C645 /* ServiceModule.swift in Sources */,
 				2C383C82250441AC00D9A3EA /* DequeReusable.swift in Sources */,
 				2C383C7E2504416800D9A3EA /* Utils.swift in Sources */,
+				4EA27D82267A7654002EF448 /* CustomSearchBar.swift in Sources */,
 				2C383C8E2504431400D9A3EA /* CatalogViewController.swift in Sources */,
 				2C383C5E25043B8A00D9A3EA /* Result.swift in Sources */,
 				2C4C96682502C8C50000C645 /* DictionaryExtensions.swift in Sources */,
